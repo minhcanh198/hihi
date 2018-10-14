@@ -1,0 +1,26 @@
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.exe.config
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.exe
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.pdb
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csprojAssemblyReference.cache
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Form1.resources
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Properties.Resources.resources
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.exe
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.pdb
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Form2.resources
+C:\Users\Tuan\source\repos\baitapcsharptrenlop\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.TonGiao.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.exe.config
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.exe
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\bin\Debug\baitapcsharptrenlop.pdb
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csprojAssemblyReference.cache
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Form1.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Form2.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Properties.Resources.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.TonGiao.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csproj.GenerateResource.cache
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.csproj.CoreCompileInputs.cache
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.exe
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.pdb
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.DanToc.resources
+D:\UIT DOCUMENTS\C# Language\Trash-master\baitapcsharptrenlop\obj\Debug\baitapcsharptrenlop.Form3.resources
